@@ -1,20 +1,5 @@
 # MY_RESUME
 
- Task 6 - Personal Portfolio Web Application
-🧾 Overview
-This task involved creating a Personal Portfolio Website using Flask (Python web framework) and HTML/CSS. The goal was to showcase my personal and professional background including skills, projects, education, and contact information in a single-page web application format.
-
-🛠️ Technologies Used
-Python
-
-Flask
-
-HTML5
-
-CSS3
-
-Jinja2 (Flask templating engine)
-
 🧑‍💻 Features
 Homepage with Name, Title, and Short Introduction
 
